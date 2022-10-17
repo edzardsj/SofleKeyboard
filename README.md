@@ -3,7 +3,7 @@
 ## Internal Notes
 
  - [ ] Enable microcontroller with USB-C (possibly use a specific uC and redo the breakout on the PCB)
- - [ ] Use a scroll wheel (EVQ-WGD001) instead of a rotary encoder ([reference](https://easyeda.com/component/41c1ea5b134f4479b70a19177b7f3082]) --- [dimensions](https://www.evelinecoaching.si/wp-upload-183948_content/2-1pcs-evqwgd001-kodirnik-za-panasonic-s-kolesom-z-stikalo.jpg))  
+ - [ ] Use a scroll wheel (EVQ-WGD001) instead of a rotary encoder ([reference](https://oshwlab.com/ChristAlix/evqwgd001-roll-encoder_carrier-board_copy]) --- [KiCad model](https://github.com/crides/kleeb/blob/master/switch.pretty/EVQWGD001.kicad_mod))  
 and add PCB mounting support
  - [ ] Add drilled holes to the PCB for more sophisticated case designs
  - [ ] Check button positioning + scroll wheel positioning / orientation on printed layout
