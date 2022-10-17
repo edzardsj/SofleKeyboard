@@ -1,5 +1,15 @@
 # Sofle Keyboard
 
+## Internal Notes
+
+ - [ ] Enable microcontroller with USB-C (possibly use a specific uC and redo the breakout on the PCB)
+ - [ ] Use a scroll wheel (EVQ-WGD001) instead of a rotary encoder ([reference](https://easyeda.com/component/41c1ea5b134f4479b70a19177b7f3082]) --- [dimensions](https://www.evelinecoaching.si/wp-upload-183948_content/2-1pcs-evqwgd001-kodirnik-za-panasonic-s-kolesom-z-stikalo.jpg))  
+and add PCB mounting support
+ - [ ] Add drilled holes to the PCB for more sophisticated case designs
+ - [ ] Check button positioning + scroll wheel positioning / orientation on printed layout
+ 
+ ## Vanilla docs
+
 ![SofleKeyboard](docs/images/sofle_keyboard.jpg)
 
 Sofle is 6×4+5 keys column-staggered split keyboard with encoder support. Based on [Lily58](https://github.com/kata0510/Lily58), [Corne](https://github.com/foostan/crkbd) and [Helix](https://github.com/MakotoKurauchi/helix) keyboards.
