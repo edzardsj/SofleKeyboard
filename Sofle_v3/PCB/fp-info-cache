@@ -1,4 +1,4 @@
-20414978376620850
+20423331097620156
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -79471,6 +79471,20 @@ SofleRGB
 12
 6
 SofleRGB
+EVQWGD001
+
+
+0
+6
+6
+SofleRGB
+EVQWGD001_DaughterBoard
+
+
+0
+20
+7
+SofleRGB
 HOLE_M2_TH
 
 
@@ -79491,6 +79505,13 @@ LED
 0
 3
 3
+SofleRGB
+LED_WS2812B_TwoSided
+https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf
+LED RGB NeoPixel
+0
+8
+4
 SofleRGB
 M2_HOLE_PCB
 
@@ -79554,6 +79575,20 @@ TACT_SWITCH_TVBP06
 0
 2
 2
+SofleRGB
+TPS635-1B43D
+
+
+0
+2
+2
+SofleRGB
+WM2211210044
+
+
+0
+8
+4
 SofleRGB
 crkbd-diode
 Resitance 3 pas
