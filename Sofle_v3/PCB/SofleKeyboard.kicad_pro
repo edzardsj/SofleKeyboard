@@ -33,7 +33,7 @@
         "other_text_thickness": 0.15,
         "other_text_upright": false,
         "pads": {
-          "drill": 4.1,
+          "drill": 2.7,
           "height": 4.7,
           "width": 4.7
         },
@@ -353,7 +353,9 @@
   },
   "libraries": {
     "pinned_footprint_libs": [],
-    "pinned_symbol_libs": []
+    "pinned_symbol_libs": [
+      "DaughterBoardkicad_sym"
+    ]
   },
   "meta": {
     "filename": "SofleKeyboard.kicad_pro",
