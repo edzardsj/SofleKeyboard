@@ -353,9 +353,7 @@
   },
   "libraries": {
     "pinned_footprint_libs": [],
-    "pinned_symbol_libs": [
-      "DaughterBoardkicad_sym"
-    ]
+    "pinned_symbol_libs": []
   },
   "meta": {
     "filename": "SofleKeyboard.kicad_pro",
