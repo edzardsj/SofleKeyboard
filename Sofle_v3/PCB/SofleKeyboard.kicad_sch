@@ -7071,12 +7071,6 @@
     (uuid ffe3a0d3-2147-425c-9c5c-6c2808c3f074)
   )
 
-  (text "TODO:\n- Check unglow led position\n- Encoder daughterboard\n- DRC\n- Check encoder side matrix\n\nErledigt:\n- Headphone Jack footprint\n- Mahority of routing\n- Reset button footprint\n- Underglow LED positioning (carefull with mounting holes - enough space to them)"
-    (at 22.86 254 0)
-    (effects (font (size 1.27 1.27)) (justify left bottom))
-    (uuid be3230c8-446a-4953-8f08-feff7fea1190)
-  )
-
   (label "SW25A" (at 63.5 214.63 180)
     (effects (font (size 1.27 1.27)) (justify right bottom))
     (uuid 058d9721-384c-49b8-b4c2-c07b60ad3429)
