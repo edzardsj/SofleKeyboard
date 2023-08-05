@@ -1,3 +1,5 @@
 (fp_lib_table
+  (version 7)
   (lib (name "DaughterBoard")(type "KiCad")(uri "${KIPRJMOD}/DaughterBoard.pretty")(options "")(descr ""))
+  (lib (name "Downloads")(type "KiCad")(uri "C:/Users/jansc/Downloads")(options "")(descr ""))
 )
